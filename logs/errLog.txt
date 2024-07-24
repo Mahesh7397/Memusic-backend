@@ -1,0 +1,54 @@
+20240722	20:06:44	1ef8473f-a60a-454e-a868-363a8113f334	Error:Cannot set headers after they are sent to the client
+20240722	20:09:54	829f4cf6-563d-4337-acbf-41e0c83fb1d6	Error:Cannot set headers after they are sent to the client
+20240722	20:11:21	2b27b478-3c35-4760-87fd-5c2a619f4ee0	Error:Cannot set headers after they are sent to the client
+20240722	20:19:18	94513036-4066-404b-beb2-ed7e35df9ca9	Error:Cannot set headers after they are sent to the client
+20240723	19:06:02	46f5c527-e12c-44a3-b6d0-546afd7697cc	Error:Cannot set headers after they are sent to the client
+20240723	19:35:07	9e516a35-a360-4d73-bd11-a4a3408ca9ab	ReferenceError:data is not defined
+20240723	19:35:41	035643e4-8d2e-4cc2-b81d-a251bfea193e	ReferenceError:data is not defined
+20240723	19:37:47	b50ec0ff-fc8a-4c82-a65c-c6535b61c373	TypeError:Cannot read properties of undefined (reading 'toLowerCase')
+20240723	19:38:28	85e123d6-770c-4f72-b2ca-6e51b5095351	TypeError:Cannot read properties of undefined (reading 'toLowerCase')
+20240723	20:04:13	379b8188-48cc-4dd8-9ce4-a1dfb1d15f08	ReferenceError:data is not defined
+20240723	20:06:54	102de931-0b81-4c74-8015-501c09edeca0	TypeError:Cannot read properties of undefined (reading 'toLowerCase')
+20240723	20:06:57	2c6b16fd-d5a4-46a7-8177-cd3e56303d6a	TypeError:Cannot read properties of undefined (reading 'toLowerCase')
+20240723	20:15:48	f6f46c6e-4c48-4401-8431-1f333d123d2a	TypeError:Cannot read properties of undefined (reading 'toLowerCase')
+20240723	20:23:43	0bef9c27-fe32-468d-9784-652ed6025d89	TypeError:name.toLowerCase is not a function
+20240723	20:25:03	82f14911-a834-4837-979b-394da76c244c	TypeError:name.toLowerCase is not a function
+20240723	20:25:28	1c3d6179-4782-4144-8cf9-96e93c28e1d3	TypeError:Cannot read properties of undefined (reading 'toLowerCase')
+20240723	20:27:25	c3e7a192-4d23-46de-9302-19bcdd44480f	TypeError:Cannot read properties of undefined (reading 'toLowerCase')
+20240724	16:08:38	cb9c1a23-cebc-4902-ad2c-444ec56fe3ef	TypeError:Cannot read properties of undefined (reading 'toLowerCase')
+20240724	16:11:45	456ac09e-8cf6-4166-b7b4-ae2e8c993e96	ReferenceError:song is not defined
+20240724	16:12:12	e563b53c-72ee-47b9-b6db-8278fea5ddaa	ReferenceError:name is not defined
+20240724	16:13:41	c43902fb-7d35-4394-ad73-14acdcbe5365	ReferenceError:req is not defined
+20240724	16:14:55	e0cd90ff-9521-4894-bacf-2c9debe17f20	TypeError:Cannot read properties of undefined (reading 'toLowerCase')
+20240724	16:16:42	996cc600-5838-4d6a-a553-0952ac8b3da6	TypeError:Cannot read properties of undefined (reading 'toLowerCase')
+20240724	16:17:13	28cdeb41-c968-447f-9aeb-d0903fef2123	TypeError:Cannot read properties of undefined (reading 'toString')
+20240724	16:18:45	f1d7f775-d1f0-457c-8b52-17d9b7c75fc0	TypeError:Cannot read properties of undefined (reading 'toLowerCase')
+20240724	16:19:16	94b39d6b-c7de-4150-ae19-1997f4bc2209	TypeError:Cannot read properties of undefined (reading 'includes')
+20240724	16:21:12	e6487da1-1f79-4b27-8070-d40215137c4a	Error:Cannot set headers after they are sent to the client
+20240724	16:22:21	cd8b02c4-8983-4dd3-aeea-131c8defd3e8	TypeError:Cannot read properties of undefined (reading 'includes')
+20240724	16:24:21	4f6fab79-90ca-490d-9a28-976ad430635f	TypeError:song.toString(...).inCludes is not a function
+20240724	16:24:47	3516893d-402b-4c66-81e7-9dafef221f40	TypeError:Cannot read properties of undefined (reading 'toString')
+20240724	16:25:17	af5a3b59-ab47-4979-8111-37a7eaa200e0	TypeError:Cannot read properties of undefined (reading 'toString')
+20240724	16:25:38	6bc13d2c-162a-4308-a951-38104140f9bf	TypeError:Cannot read properties of undefined (reading 'includes')
+20240724	16:26:27	7c862f38-a2f8-4660-9537-973d33bd8595	Error:Cannot set headers after they are sent to the client
+20240724	16:35:19	5d0c2f2d-3e17-45d6-890b-1278d3a4cd0a	TypeError:name.toLowercase is not a function
+20240724	16:36:49	dc496f09-9d43-42db-95b9-03a48debbde7	TypeError:name.toLowercase is not a function
+20240724	16:37:29	c3206aa9-af4d-4ff2-82ac-6f1217a57c7a	TypeError:name.toLowercase is not a function
+20240724	16:38:06	da35d21f-822a-495d-91ef-553c279b3d23	TypeError:Cannot read properties of undefined (reading 'toLowerCase')
+20240724	16:39:01	8e408e0e-e1a5-4a80-aa3f-e57f05122a08	TypeError:Cannot read properties of undefined (reading 'toLowerCase')
+20240724	16:39:22	7cbab317-f30b-439c-b467-929b79e1c8dd	TypeError:Cannot read properties of undefined (reading 'includes')
+20240724	18:19:10	f827e84a-b3f6-4963-8cd9-5df52ffa7098	TypeError:Cannot read properties of undefined (reading 'toLowerCase')
+20240724	18:19:44	cc16bd54-387e-417f-8280-0f0c21f8c302	TypeError:Cannot read properties of undefined (reading 'includes')
+20240724	18:22:26	c893d5cf-6f50-42a5-b807-332713f1f67a	TypeError:Cannot read properties of undefined (reading 'includes')
+20240724	18:23:52	d700f0d7-5246-4f0f-9778-e5fc95fcc3a6	TypeError:Cannot read properties of undefined (reading 'includes')
+20240724	18:28:17	cc2fca72-f8ab-4149-9e13-195c1d309235	TypeError:filterByMoviename is not iterable
+20240724	18:28:34	3e6a12dc-a5bb-4b39-aba9-65c545a8f1af	TypeError:Cannot read properties of undefined (reading 'includes')
+20240724	18:29:14	6170a3e4-6111-431d-b96c-bcfb660ece90	TypeError:filterByMoviename is not iterable
+20240724	18:32:04	26870504-495c-4cb4-b1fe-fa83145a0f0c	TypeError:Cannot read properties of undefined (reading 'toLowerCase')
+20240724	18:34:19	80fa9dc6-ab0e-4015-b80d-06c7426005c3	TypeError:Cannot read properties of undefined (reading 'toLowerCase')
+20240724	18:35:14	c071eb8a-fbe8-42a9-94fe-79ac02478645	TypeError:Cannot read properties of undefined (reading 'toLowerCase')
+20240724	18:35:16	cdd91e43-cd44-473c-93a8-5f1ba960c9f9	TypeError:Cannot read properties of undefined (reading 'toLowerCase')
+20240724	18:37:38	6720d9e6-10ac-4e0d-b01c-326ac859bd24	TypeError:Cannot read properties of undefined (reading 'toLowerCase')
+20240724	18:42:15	5d944957-5f35-4334-aed7-0c2e7a928aed	ReferenceError:string is not defined
+20240724	19:12:11	0e08c17b-65ca-47d3-95ba-258ad5d6d28d	Error:Cannot set headers after they are sent to the client
+20240724	19:15:30	f75be6c6-c193-4de6-8059-3b4630d71be8	Error:Cannot set headers after they are sent to the client

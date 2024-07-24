@@ -2,16 +2,18 @@ const express=require('express')
 const app=express()
 const path=require('path')
 const PORT=process.env.PORT||3800
-const data=require('./model/SongPlayData.json')
+const {logger}=require('./middleware/handlelog')
+const handleError = require('./middleware/handleError')
 
-app.get('/',(req,res)=>{
-    let randdata=data[Math.floor(Math.random()*data.length)]
-    res.send(randdata)
+
+app.use(express.urlencoded({extended:false}))
+
+app.use(logger)
+app.use('/songs',require('./router/api/Songs'))
+
+app.get('/*',(req,res)=>{
+    res.status(404).type('txt').send("Data is Not Found")
 })
-app.get('/:name',(req,res)=>{
-   let result=data.filter((song)=>song.Movie===req.params.name)
-   res.json(result)
-})
 
-
+app.use(handleError)
 app.listen(PORT,()=>console.log(`Server id running on ${PORT}`))
