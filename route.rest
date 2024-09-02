@@ -1,1 +1,2 @@
-GET http://localhost:3800/songs/pushpa
+GET http://localhost:3800/Songs/search/lover
+
